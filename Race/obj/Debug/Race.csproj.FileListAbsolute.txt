@@ -1,0 +1,10 @@
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\bin\Debug\Race.exe.config
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\bin\Debug\Race.exe
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\bin\Debug\Race.pdb
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\obj\Debug\Race.csprojAssemblyReference.cache
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\obj\Debug\RacetrackSimulator.GOrun.resources
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\obj\Debug\Race.Properties.Resources.resources
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\obj\Debug\Race.csproj.GenerateResource.cache
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\obj\Debug\Race.exe
+C:\Users\sunny\Desktop\bak\bak 2\11june\CycleRace-master\Race\obj\Debug\Race.pdb
